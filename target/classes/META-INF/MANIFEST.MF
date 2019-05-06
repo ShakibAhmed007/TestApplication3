@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Rokon-Nazrul
+Build-Jdk: 10.0.1
+Implementation-Title: TestApplication
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.skb
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/TestApplication
+Created-By: Maven Integration for Eclipse
+
